@@ -193,7 +193,7 @@ Amazon_E_commerce_Project_Code.ipynb
 
 ## 👨‍💻 Author
 
-**Yag**
+**Yagnesh Galla**
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
